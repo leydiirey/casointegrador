@@ -1,0 +1,96 @@
+body {
+    background-image: url('../Imagenes/day3.jpg');
+    margin:0 ;
+    font-family:sans-serif ;
+  }
+  
+   * {
+    box-sizing:border-box;
+   }
+  
+  
+   h2 { color:gold;
+  
+  }
+  
+  .form-registro {
+    width:98% ;
+    max-width:500px ;
+    margin:auto ;
+  border-radius: 7px;
+  }
+  
+  .contenedores-inputs{
+    padding:10 px 30 px ;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+   border-radius: 7px;
+  
+   }
+   input{
+    margin-bottom:15px ;
+    padding: 15px;
+     border-radius: 7px; 
+      border-bottom: 5px solid black;
+  
+   }
+   .input-48{
+    width: 48%;
+   }
+   .input-100{
+    width: 100%;
+   }
+  .form-titulo {
+    background:#80008070 ;
+    color: white;
+    padding: 20px;
+    text-align:center;
+    border-radius: 7px;
+    border-bottom: 5px solid black;
+  }
+  .enviar{
+    background:#80008070;
+    color: white;
+  
+  }
+  .label1{
+    padding:5px ;
+    background-color:#80008060 ; color:white ;
+    margin-block-end:10px ;
+  }
+  .titulo1{
+    background-color:#80008060;
+    color: white;
+      width:120% ;
+    max-width:1000px ;
+    margin:auto ;
+    font-style:100px ;
+    margin-block:40px ;
+     text-align:center
+  
+  }
+  .contenedores{
+    display: flex;
+    padding:20px ;
+    color: rgb(0, 0, 0)
+  }
+  
+  h1 {
+    text-align: center;
+    color:gold ;
+  }
+  .tit{
+    background-color:#80008070 ;
+  }
+  
+  .texto1{
+    margin:0px 15px ;
+    text-align:center;
+    background-color:#80008070 ;color: white;
+  } 
+  
+  p {
+    color: rgb(235, 224, 224);
+  }
+  
